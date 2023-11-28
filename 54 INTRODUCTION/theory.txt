@@ -1,0 +1,4 @@
+With the help of CSS we can only add some design to our pages but we cannot add any interactivity of webpage with user.
+So with the help of java script, we basically add some interaction of webpage wit user which increases the user experience.
+
+Also JavaScript with the help of NodeJS, we can be used to make backends.
